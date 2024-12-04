@@ -10,6 +10,6 @@ EXPOSE 3000
 
 ENV NAME 1-tier-node-app
 
-CMD ["npm" , "start"]
+CMD ["npm" , "run" , "arshman"]
 
  
